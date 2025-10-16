@@ -1,0 +1,26 @@
+bancos-tarjetas:
+  - Banco
+  - Tarjeta
+minorista-comercio:
+  - CMR
+  - Paris
+  - Ripley
+  - Tricot
+  - Hites
+  - Jumbo
+  - Unimarc
+  - Copec
+  - Shell
+isapres-salud:
+  - Banmedica
+  - Colmena
+  - Consalud
+  - Cruz Blanca
+  - Vida Tres
+  - Nueva MasVida
+  - FONASA
+caja-compensacion:
+  - Caja Los Andes
+  - La Araucana
+  - Los Heroes
+  - Caja 18
