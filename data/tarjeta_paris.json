@@ -1,0 +1,16 @@
+{
+  "emisor": "tarjeta_paris",
+  "categoria": "Minorista y Comercio",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.tarjetaparisonline.cl/beneficios"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:10:43.610635+00:00",
+  "errores": [
+    {
+      "url": "https://www.tarjetaparisonline.cl/beneficios",
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tarjetaparisonline.cl/beneficios\nCall log:\n  - navigating to \"https://www.tarjetaparisonline.cl/beneficios\", waiting until \"networkidle\"\n"
+    }
+  ]
+}

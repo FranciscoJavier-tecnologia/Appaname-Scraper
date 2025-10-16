@@ -1,0 +1,16 @@
+{
+  "emisor": "tarjeta_tricot",
+  "categoria": "Minorista y Comercio",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://www.tricot.cl/tarjeta-tricot"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:10:46.312367+00:00",
+  "errores": [
+    {
+      "url": "https://www.tricot.cl/tarjeta-tricot",
+      "error": "404 Client Error: Not Found for url: https://www.tricot.cl/error-404"
+    }
+  ]
+}

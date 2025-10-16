@@ -1,0 +1,16 @@
+{
+  "emisor": "fonasa",
+  "categoria": "Isapres y Salud",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://www.fonasa.cl/"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:07:32.830581+00:00",
+  "errores": [
+    {
+      "url": "https://www.fonasa.cl/",
+      "error": "403 Client Error: Forbidden for url: https://nuevo.fonasa.gob.cl/"
+    }
+  ]
+}

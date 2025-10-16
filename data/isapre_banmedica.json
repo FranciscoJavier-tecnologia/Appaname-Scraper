@@ -1,0 +1,101 @@
+{
+  "emisor": "isapre_banmedica",
+  "categoria": "Isapres y Salud",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://www.banmedica.cl/beneficios/"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "JavaScript está deshabilitado en tu navegador. Por favor activalo para poder utilizar todas las funciones del sitio.Consulta si te correspondedevolución por Ley CortaBuscarPago en líneaBuscarPago en líneaPor qué elegirnosRazonesServiciosBeneficiosPlanesPlanes de SaludDiseña tu PlanContacta a un EjecutivoProductos AdicionalesCompra OnlinePrestadoresConvenios médicosBuscador de PrestadoresChequeos GratuitosConvenios OdontológicosGES / CAECGESOrientación GESRed de Prestadores GESCAECOrientación CAECRed de Prestadores CAECLey Ricarte SotoOrientaciónOrientación BanmédicaCómo funciona tu planLicencias MédicasExcesos y ExcedentesUrgencias MédicasGlosarioTrámitesCertificado DesafiliaciónContáctanosSucursal VirtualPago en líneaSucursal VirtualConsulta si te correspondedevolución por Ley CortaLos mejores beneficios para ti y tu familiaAprovecha los beneficios gratuitos que tienes por ser parte de Isapre Banmédica.Beneficios en Farmacias SalcobrandBeneficios en Farmacias SalcobrandBeneficios en Farmacias SalcobrandEncuentra los descuentos permanentes, mensuales y campañas especiales disponibles para nuestros afiliados en Farmacias Salcobrand.Conoce másPlan Preventivo de IsapresChequeos Preventivos GratuitosPlan Preventivo de IsapresDescubre cómo tú y tus beneficiarios pueden realizarse gratuitamente las prestaciones y exámenes contemplados dentro del Plan Preventivo de Isapres.Conoce másDescubre MedyDescubre MedyDescubre MedyEn Medy, encontrarás todo lo que necesitas para gestionar todo lo relacionado con tu salud y la de tu familia de manera eficiente, práctica y al instante.Conoce másMás BeneficiosCaecCobertura en ÓpticasBeneficios dentalesProfilaxis Preexposición (PrEP)Además, conoce los complementos que puedes contratar junto a tu plan:Farmacia AmbulatoriaBeneficios DentalesCobertura CatastróficaPack Protección TotalTelemedicinaCobertura Hospitales RegionalesExámenes copago $0 en VidaintegraRevisa todos nuestros productos adicionales aquíCámbiate a BanmédicaCámbiate a BanmédicaSi aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComunaInfórmateInformación CorporativaReporte de SostenibilidadEmpresas BanmédicaAcceso a PrestadoresAcceso a EmpleadoresCertificado de DesafiliaciónRegularización de CotizacionesPolíticas de PrivacidadSuperintendencia de SaludLlámanos600 600 3600ContáctanosContacto OnlineSucursalesConéctateFacebookIsapre Banmédica. S.A. - Apoquindo 3600, Las Condes.© 2025 Todos los Derechos Reservados.",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Los mejores beneficios para ti y tu familia",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Los mejores beneficios para ti y tu familia",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios en Farmacias Salcobrand",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios en Farmacias Salcobrand",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios en Farmacias Salcobrand",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Plan Preventivo de Isapres",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Chequeos Preventivos Gratuitos",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Plan Preventivo de Isapres",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Descubre Medy",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Descubre Medy",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Descubre Medy",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Además, conoce los complementos que puedes contratar junto a tu plan:Farmacia AmbulatoriaBeneficios DentalesCobertura CatastróficaPack Protección TotalTelemedicinaCobertura Hospitales RegionalesExámenes copago $0 en VidaintegraRevisa todos nuestros productos adicionales aquí",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    },
+    {
+      "comerciante_o_beneficio": "Además, conoce los complementos que puedes contratar junto a tu plan:",
+      "descuento": "",
+      "terminos_hint": "Si aún no eres parte deBanmédica, ingresa tus datos ynos comunicamos contigoRegiónREGION IREGION IIREGION IIIREGION IVREGION VREGION VIREGION VIIREGION VIIIREGION IXREGION XREGION XIREGION XIIREGION MetropolitanaREGION XIVREGION XVREGION XVIComuna",
+      "url_de_origen": "https://www.banmedica.cl/beneficios/"
+    }
+  ],
+  "ts": "2025-10-16T00:07:34.355205+00:00"
+}

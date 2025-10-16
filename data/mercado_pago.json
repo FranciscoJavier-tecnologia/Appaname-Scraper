@@ -1,0 +1,47 @@
+{
+  "emisor": "mercado_pago",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://www.mercadopago.cl/"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "Tu plata crece yestásiempredisponible",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.mercadopago.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Soluciones paracobrar alinstante",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.mercadopago.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Tarjeta MercadoPago100%gratis",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.mercadopago.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Ten una cuenta gratis y sin burocracia",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.mercadopago.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Vende y ten tu dinero al instante",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.mercadopago.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Acerca de",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.mercadopago.cl/"
+    }
+  ],
+  "ts": "2025-10-16T00:06:43.034789+00:00"
+}

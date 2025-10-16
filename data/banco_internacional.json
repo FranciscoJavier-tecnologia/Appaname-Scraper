@@ -1,0 +1,16 @@
+{
+  "emisor": "banco_internacional",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://beneficios.internacional.cl/"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:06:38.655938+00:00",
+  "errores": [
+    {
+      "url": "https://beneficios.internacional.cl/",
+      "error": "403 Client Error: Forbidden for url: https://beneficios.internacional.cl/"
+    }
+  ]
+}

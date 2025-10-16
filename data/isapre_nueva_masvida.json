@@ -1,0 +1,16 @@
+{
+  "emisor": "isapre_nueva_masvida",
+  "categoria": "Isapres y Salud",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.nuevamasvida.cl/beneficios"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:07:58.785448+00:00",
+  "errores": [
+    {
+      "url": "https://www.nuevamasvida.cl/beneficios",
+      "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.nuevamasvida.cl/beneficios\", waiting until \"networkidle\"\n"
+    }
+  ]
+}

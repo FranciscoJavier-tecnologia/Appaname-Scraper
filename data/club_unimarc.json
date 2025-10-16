@@ -1,0 +1,16 @@
+{
+  "emisor": "club_unimarc",
+  "categoria": "Minorista y Comercio",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.clubunimarc.cl/"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:08:59.002607+00:00",
+  "errores": [
+    {
+      "url": "https://www.clubunimarc.cl/",
+      "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.clubunimarc.cl/\nCall log:\n  - navigating to \"https://www.clubunimarc.cl/\", waiting until \"networkidle\"\n"
+    }
+  ]
+}

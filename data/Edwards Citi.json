@@ -1,0 +1,17 @@
+{
+  "emisor": "Edwards Citi",
+  "categoria": "",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://sitiospublicos.bancoedwards.cl/personas/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://sitiospublicos.bancoedwards.cl/personas/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:06:15.543075+00:00"
+}

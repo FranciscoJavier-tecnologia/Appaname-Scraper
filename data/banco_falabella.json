@@ -1,0 +1,893 @@
+{
+  "emisor": "banco_falabella",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.bancofalabella.cl/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "Para Hoy",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Docetrece",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Domino's Pizza",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Turbus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Tottus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Chuck E. Cheese",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Ver todas las oportunidades únicas.",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Populares del Mes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en McCombo Big Mac",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuentos en el total de la compra",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Estacionamiento en Mallplaza",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Chuck E. Cheese",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Ver todas las oportunidades únicas.",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos (191)",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "The Top Burger",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "20% dcto. en Preventa Miguel Bosé en Chile",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tour de Descuentos Sin Tope",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "15% dcto Jurassic World: The Experience",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en CLUB DEPORTIVO USS",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "CMR Days Farmacias Ahumada",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en McDonald's",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Domino's Pizza",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Invisalign",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Color Run",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "+15% adicional en Clínica Dental Everest",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Cinemark",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Cinemark",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Chuck E. Cheese",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Juan Valdez",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Tottus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Docetrece",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Romaria",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Sublime",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Casa Santa Brasa",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Miscelaneo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Bar Ramblas",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Shi-Nuá",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante La Rompiente",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Pescados Capitales",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Oia",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Ciro's",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Amandine Bistro",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuentos en Volka",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en AM Dulcería",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Skin Fit presencial",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficio en Educación",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Kento Gourmet",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Cabify",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Cabify",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en chocolatería Le Vice",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Clínica Santa Blanca",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en chocolatería Leonidas",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Zapping",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Jumpin",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Tottus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Cabrera al Paso",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Tottus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Kairos Garden",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Tottus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Arena XP",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Kechua",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en tienda De Costa a Costa",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuentos en Restaurantes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en El Extraordinario Circo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Bar Santiago",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en South Bites",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Carvuk",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Beauty Plus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Belenus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Berlín Doner Kebab",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Bianco Latte",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Barrio Chick'en",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Doggis",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Bienestar Animal",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Bistro Cascade",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Vendetta",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Viña Sutil",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Whoosh RM",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Yogen Fruz",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Zanzíbar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en ZS Motor",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Superzoo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Take a Break",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Boost",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Family Park",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Farmacias Ahumada",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Flores de Ocoa",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Happyland",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Housebar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficio en Hyla",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Integramédica",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Jalisco",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Juan Maestro",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Krossbar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Cuotas sin Interés en KTM",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante La Patrona",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante La Piazza",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante La Sanguchera del Barrio",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante La Santoría",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Vapiano",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Shepherd",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Lipigas",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Petvet",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Siete Cortes Open Kennedy",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Muu Grill",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Take a Wok",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en McParking",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Tanta",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Prosegur",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficio en Red Salud UC Christus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Mi Bodega",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Diario Financiero Digital",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Nelí",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Cuotas sin Interés en Thermomix",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Tigre Bravo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Tommy Beans",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Lovdo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Sakura",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuentos en Restaurante Paris Texas",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Turbus",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante La Tabla",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Dogin",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Masgluglu",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Mesón del Marinero",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Pedro, Juan & Diego",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Mamma Mía",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Parque Aventura",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Parque Aventura Golf",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Peaky Nuts",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Pulmay",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Econorent",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante El Japonés",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restuarante Mamut",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Ekeko",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Club Ratón Pérez",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Clínica You",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Danés",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Descorcha",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Acumula más CMR Puntos en Despegar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Dunkin'",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante El Bodegón Open Kennedy",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Estacionamiento Aeropuerto",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Parkup",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Descuento en Restaurante Barra Chalaca",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "NUESTRO BANCO",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "SERVICIO AL CLIENTE",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Lo más buscado",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancofalabella.cl/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:06:16.718173+00:00"
+}

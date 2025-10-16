@@ -1,0 +1,371 @@
+{
+  "emisor": "tenpo",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://tenpo.cl/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "BeneficiosPromocionesTenpesosViajes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "PromocionesTenpesosViajes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "PersonasBusinessTeenpoPersonasBusinessTeenpoCategorÃ­aTarjeta de CrÃ©ditoMastercardEcommerceCombustiblesFoodieEstudioMascotasFarmaciasAutomotrizDeporteViajesSaludCiudadTodo ChileSantiagoIquiqueAntofagastaLa SerenaCoquimboViÃ±a del MarValparaÃ­soMaitencilloRancaguaCuricÃ³TalcaTemucoConcepciÃ³nChillanPuerto VarasTalcahuanoSelecciona del dÃ­aLunesMartesMiÃ©rcolesJuevesViernesSÃ¡badoDomingoTodos los dÃ­asTag TemplateThank you! Your submission has been received!Oops! Something went wrong while submitting the form.",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "PersonasBusinessTeenpoCategorÃ­aTarjeta de CrÃ©ditoMastercardEcommerceCombustiblesFoodieEstudioMascotasFarmaciasAutomotrizDeporteViajesSaludCiudadTodo ChileSantiagoIquiqueAntofagastaLa SerenaCoquimboViÃ±a del MarValparaÃ­soMaitencilloRancaguaCuricÃ³TalcaTemucoConcepciÃ³nChillanPuerto VarasTalcahuanoSelecciona del dÃ­aLunesMartesMiÃ©rcolesJuevesViernesSÃ¡badoDomingoTodos los dÃ­asTag TemplateThank you! Your submission has been received!Oops! Something went wrong while submitting the form.",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "PersonasBusinessTeenpoCategorÃ­aTarjeta de CrÃ©ditoMastercardEcommerceCombustiblesFoodieEstudioMascotasFarmaciasAutomotrizDeporteViajesSaludCiudadTodo ChileSantiagoIquiqueAntofagastaLa SerenaCoquimboViÃ±a del MarValparaÃ­soMaitencilloRancaguaCuricÃ³TalcaTemucoConcepciÃ³nChillanPuerto VarasTalcahuanoSelecciona del dÃ­aLunesMartesMiÃ©rcolesJuevesViernesSÃ¡badoDomingoTodos los dÃ­as",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "PersonasBusinessTeenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "CategorÃ­aTarjeta de CrÃ©ditoMastercardEcommerceCombustiblesFoodieEstudioMascotasFarmaciasAutomotrizDeporteViajesSaludCiudadTodo ChileSantiagoIquiqueAntofagastaLa SerenaCoquimboViÃ±a del MarValparaÃ­soMaitencilloRancaguaCuricÃ³TalcaTemucoConcepciÃ³nChillanPuerto VarasTalcahuanoSelecciona del dÃ­aLunesMartesMiÃ©rcolesJuevesViernesSÃ¡badoDomingoTodos los dÃ­as",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "CategorÃ­aTarjeta de CrÃ©ditoMastercardEcommerceCombustiblesFoodieEstudioMascotasFarmaciasAutomotrizDeporteViajesSalud",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "CategorÃ­aTarjeta de CrÃ©ditoMastercardEcommerceCombustiblesFoodieEstudioMascotasFarmaciasAutomotrizDeporteViajesSalud",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "CiudadTodo ChileSantiagoIquiqueAntofagastaLa SerenaCoquimboViÃ±a del MarValparaÃ­soMaitencilloRancaguaCuricÃ³TalcaTemucoConcepciÃ³nChillanPuerto VarasTalcahuano",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "CiudadTodo ChileSantiagoIquiqueAntofagastaLa SerenaCoquimboViÃ±a del MarValparaÃ­soMaitencilloRancaguaCuricÃ³TalcaTemucoConcepciÃ³nChillanPuerto VarasTalcahuano",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Selecciona del dÃ­aLunesMartesMiÃ©rcolesJuevesViernesSÃ¡badoDomingoTodos los dÃ­as",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Selecciona del dÃ­aLunesMartesMiÃ©rcolesJuevesViernesSÃ¡badoDomingoTodos los dÃ­as",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tag Template",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tag Template",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©ditoSupermercadoSupermercadosSÃ¡badoHasta 8.000 de devoluciÃ³n en supermercados del paÃ­sPagando con tus tarjetas TenpoSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileFoodieTodo ChilePapa JohnsDomingo25% dcto en Papa JohnsPagando con tus tarjetas Tenpo MastercardSaber mÃ¡sTarjeta de CrÃ©ditoTodo ChileTodo ChileNeat PagosTodos los dÃ­as0% comisiÃ³n en el pago de tu arriendo a travÃ©s de NeatPagando con tus tarjetas de crÃ©dito TenpoSaber mÃ¡sTarjeta de CrÃ©ditoTodo ChileEcommerceTodo ChileMiÃ©rcoles AsiÃ¡ticoMiÃ©rcoles15% de devoluciÃ³n en Shein, Aliexpress o TemuPagando con tus tarjetas TenpoSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileTransporteTodo ChileKuposMiÃ©rcoles30% dcto en pasajes de bus en Kupos.clViaja con descuento pagando con TenpoSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileFoodieTodo Chilejuan maestroJueves30% de descuento en Juan MaestroPagando con tus tarjetas TenpoSaber mÃ¡sTarjeta de CrÃ©ditoTodo ChileViajesTodo ChileDespegarMartes$50.000 de descuento en Despegar y 3 o 10 cuotas sin interÃ©sPagando con tus tarjetas de crÃ©dito TenpoSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileFoodieTodo ChileDoggisTodos los dÃ­asJueves30% de descuento en DoggisPagando con tus tarjetas TenpoSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileTransporteTodo ChileCabifyTodos los dÃ­as50% dcto en viajes de CabifyCon el cÃ³digo MASTER09 y pagando con TenpoSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileCombustiblesTodo ChileApps de bencinaViernesHasta $300 dcto por litro de bencinaTodos los viernes del mesSaber mÃ¡sTarjeta de CrÃ©ditoTodo ChileMastercardTodo Chile3, 6 y 10 cuotas sin interÃ©sTodos los dÃ­as3, 6 y 10 cuotas sin interÃ©s en todoTodos los dÃ­as de octubreSaber mÃ¡sDÃ©bito y CrÃ©ditoTodo ChileEcommerceTodo ChileLaikaTodos los dÃ­as20% de descuento en LaikaPagando con tus tarjetas TenpoSaber mÃ¡sSiguienteSi estÃ¡s interesado en hacer alianza con TenpoLlena el formulario",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©ditoSupermercadoSupermercadosSÃ¡badoHasta 8.000 de devoluciÃ³n en supermercados del paÃ­sPagando con tus tarjetas TenpoSaber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©dito",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Hasta 8.000 de devoluciÃ³n en supermercados del paÃ­s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Hasta 8.000 de devoluciÃ³n en supermercados del paÃ­s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas Tenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas Tenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Saber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©ditoTodo ChileFoodieTodo ChilePapa JohnsDomingo25% dcto en Papa JohnsPagando con tus tarjetas Tenpo MastercardSaber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©dito",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todo Chile",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "25% dcto en Papa Johns",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "25% dcto en Papa Johns",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas Tenpo Mastercard",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas Tenpo Mastercard",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Saber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tarjeta de CrÃ©ditoTodo ChileTodo ChileNeat PagosTodos los dÃ­as0% comisiÃ³n en el pago de tu arriendo a travÃ©s de NeatPagando con tus tarjetas de crÃ©dito TenpoSaber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tarjeta de CrÃ©dito",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todo Chile",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "0% comisiÃ³n en el pago de tu arriendo a travÃ©s de Neat",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "0% comisiÃ³n en el pago de tu arriendo a travÃ©s de Neat",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas de crÃ©dito Tenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas de crÃ©dito Tenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Saber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tarjeta de CrÃ©ditoTodo ChileEcommerceTodo ChileMiÃ©rcoles AsiÃ¡ticoMiÃ©rcoles15% de devoluciÃ³n en Shein, Aliexpress o TemuPagando con tus tarjetas TenpoSaber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Tarjeta de CrÃ©dito",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todo Chile",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "15% de devoluciÃ³n en Shein, Aliexpress o Temu",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "15% de devoluciÃ³n en Shein, Aliexpress o Temu",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas Tenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Pagando con tus tarjetas Tenpo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Saber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©ditoTodo ChileTransporteTodo ChileKuposMiÃ©rcoles30% dcto en pasajes de bus en Kupos.clViaja con descuento pagando con TenpoSaber mÃ¡s",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "DÃ©bito y CrÃ©dito",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://tenpo.cl/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:06:59.111214+00:00"
+}

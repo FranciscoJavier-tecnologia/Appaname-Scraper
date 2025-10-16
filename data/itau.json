@@ -1,0 +1,371 @@
+{
+  "emisor": "itau",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://itaubeneficios.cl/"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "55%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Usa tus Itaú puntos para canjear productos y gift cards",
+      "descuento": "55%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Canjea lo mejor de Apple aquí",
+      "descuento": "40%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Tienda Itaú Apple",
+      "descuento": "40%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "30%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Canjea cualquier compra de tu tarjeta de crédito",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "30%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viaja con tus Itaú puntos",
+      "descuento": "50%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Canjea productos y giftcards",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Canjea tu Iphone y otros",
+      "descuento": "50%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Canje abierto de puntos",
+      "descuento": "40%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viajes",
+      "descuento": "40%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Promociones del mes",
+      "descuento": "40%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Días Itaú",
+      "descuento": "40%",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Revisa tus beneficios de pago en cuotas",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Aplicaciones Favoritas",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "3 cuotas sin interés",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Días Itaú",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Lunes 40% de descuento en HOFF",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Martes Beneficio Legend en Camposorno",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Martes Beneficio Legend y Black en Corralosorno",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Miércoles 50% de descuento en Cava Morandé",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "40% de dcto. los jueves en Leonidas Chocolate",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los Viernes 55% de descuento en Viña Undurraga",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacadosViña UndurragaTodas las regionesOnline55%De comprasJust BurgerRM y RegionesPresencial y Delivery40%RestaurantesCorralosornoRM y RegionesPresencial — Online30%De comprasViña VentisqueroSantiago, RMOnline50%De comprasDulcería El IngenioRMPresencial40%De comprasLeonidas ChocolateSantiago, RMPresencial y Delivery40%De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacadosViña UndurragaTodas las regionesOnline55%De comprasJust BurgerRM y RegionesPresencial y Delivery40%RestaurantesCorralosornoRM y RegionesPresencial — Online30%De comprasViña VentisqueroSantiago, RMOnline50%De comprasDulcería El IngenioRMPresencial40%De comprasLeonidas ChocolateSantiago, RMPresencial y Delivery40%De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacados",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viña UndurragaTodas las regionesOnline55%De comprasJust BurgerRM y RegionesPresencial y Delivery40%RestaurantesCorralosornoRM y RegionesPresencial — Online30%De comprasViña VentisqueroSantiago, RMOnline50%De comprasDulcería El IngenioRMPresencial40%De comprasLeonidas ChocolateSantiago, RMPresencial y Delivery40%De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viña UndurragaTodas las regionesOnline55%De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viña UndurragaTodas las regionesOnline55%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viña UndurragaTodas las regionesOnline",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Viña Undurraga",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Todas las regiones",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Online",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "55%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "55%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Just BurgerRM y RegionesPresencial y Delivery40%Restaurantes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Just BurgerRM y RegionesPresencial y Delivery40%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Just BurgerRM y RegionesPresencial y Delivery",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Just Burger",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "RM y Regiones",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Presencial y Delivery",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "40%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "40%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Restaurantes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Restaurantes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "CorralosornoRM y RegionesPresencial — Online30%De compras",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "CorralosornoRM y RegionesPresencial — Online30%",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "CorralosornoRM y RegionesPresencial — Online",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Corralosorno",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "RM y Regiones",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    },
+    {
+      "comerciante_o_beneficio": "Presencial — Online",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://itaubeneficios.cl/"
+    }
+  ],
+  "ts": "2025-10-16T00:06:39.576727+00:00"
+}

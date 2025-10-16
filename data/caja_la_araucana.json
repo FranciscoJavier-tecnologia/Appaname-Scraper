@@ -1,0 +1,89 @@
+{
+  "emisor": "caja_la_araucana",
+  "categoria": "Cajas de Compensación",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.laaraucana.cl/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "Nuestra Empresa",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Información institucional",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Accesos rápidos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Canales de Atención",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Llámanos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Entérate de todo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Nuestra Empresa",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Información institucional",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Accesos rápidos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Canales de Atención",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Llámanos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Entérate de todo",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Usamos cookies para mejorar tu experiencia",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.laaraucana.cl/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:07:10.914517+00:00"
+}

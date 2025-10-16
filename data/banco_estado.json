@@ -1,0 +1,17 @@
+{
+  "emisor": "banco_estado",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.bancoestado.cl/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "Advertencia:",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.bancoestado.cl/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:06:03.084985+00:00"
+}

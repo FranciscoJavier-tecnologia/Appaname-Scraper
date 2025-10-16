@@ -1,0 +1,41 @@
+{
+  "emisor": "isapre_consalud",
+  "categoria": "Isapres y Salud",
+  "requiere_js": true,
+  "urls_origen": [
+    "https://www.consalud.cl/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "Redes Sociales",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.consalud.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Normativa",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.consalud.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Más Sobre Consalud",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.consalud.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Enlaces",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.consalud.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Redes Sociales",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://www.consalud.cl/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:07:38.292565+00:00"
+}

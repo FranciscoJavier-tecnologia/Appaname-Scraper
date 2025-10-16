@@ -1,0 +1,371 @@
+{
+  "emisor": "banco_security",
+  "categoria": "Bancos y Tarjetas",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://personas.bancosecurity.cl/beneficios"
+  ],
+  "items": [
+    {
+      "comerciante_o_beneficio": "Beneficios Security",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los beneficiosBeneficios destacadosEspacio GourmetEntretención y deportesHogar y tecnologíaViajesShopping y serviciosBienestarSecurity Pesos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los beneficiosBeneficios destacadosEspacio GourmetEntretención y deportesHogar y tecnologíaViajesShopping y serviciosBienestarSecurity Pesos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los beneficios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los beneficios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los beneficios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacados",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacados",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacados",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Espacio Gourmet",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Espacio Gourmet",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Espacio Gourmet",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Entretención y deportes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Entretención y deportes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Entretención y deportes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Hogar y tecnología",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Hogar y tecnología",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Hogar y tecnología",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Viajes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Viajes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Viajes",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Shopping y servicios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Shopping y servicios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Shopping y servicios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Bienestar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Bienestar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Bienestar",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Security Pesos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Security Pesos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Security Pesos",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacadosVer todos los destacadosVer todos20% de descuentoActive Vortex OutletTodosTodos los díasVer Beneficio20% dscto adicionalEcodisfrazTodos los díasTodos los díasVer Beneficio",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Beneficios destacados",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "20% de descuentoActive Vortex OutletTodosTodos los díasVer Beneficio20% dscto adicionalEcodisfrazTodos los díasTodos los díasVer Beneficio",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Active Vortex Outlet",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Ecodisfraz",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "¿Qué Beneficios buscas hoy?Ordenar por:Beneficios mas recientesMayor a menor descuentoBuscarTodos los BeneficiosShopping y servicios20% de descuentoActive Vortex OutletTodosTodos los días20% de descuentoBienestar20% de descuentoAlma SaludTodos los díasLos Llanes 86, torre B, Oficina 817 - Las CondesTodos los días20% de descuentoGourmet40% de descuentoCarnivo SteakhouseTodos los martesLos Pablos N°02291, TemucoTodos los martes40% de descuentoGourmet40% de descuentoCasa MoreraTodos los viernesAlonso de Córdova 4017, Vitacura, Región MetropolitanaTodos los viernes40% de descuentoGourmet40% de descuentoDivino Pecado40% de descuentoAv. San Martín N°180, Esquina 3 Norte, Viña del MarTodos los martes40% de descuentoGourmet10% de descuentoDulces AltiroTodos los díase-commerce y presencial.Todos los días10% de descuentoShopping y servicios20% dscto adicionalEcodisfrazTodos los díase-commerceTodos los días20% dscto adicionalGourmet40% de descuentoHotel Costa RealTodos los martesFrancisco de Aguirre 170, La SerenaTodos los martes40% de descuentoBienestarHasta 30% de descuentoInfinity SoulTodos los díasCostanera Sur 2710, Parque Titanium, Las Condes.Todos los díasHasta 30% de descuentoGourmet40% de descuentoLa ChalotaTodos los martesKlenner 348, Puerto VarasTodos los martes40% de descuentoGourmet40% de descuentoLa Cocina de JavierTodos los miércolesAv. Vitacura #7482, Vitacura, Región Metropolitana.Todos los miércoles40% de descuentoGourmet30% de descuentoLa MaestranzaTodos los domingosAvenida Vitacura N°5468, Vitacura, Región Metropolitana.   Av. Pdte. Kennedy 9001, Mall Alto Las Condes, Las Condes, Región Metropolitana.Todos los domingos30% de descuentoOrdenar por:Beneficios mas recientesMayor a menor descuentoBuscarOrdenarOrdenar por:Beneficios mas recientesMayor a menor descuentoBuscarBuscarCargar más",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "¿Qué Beneficios buscas hoy?Ordenar por:Beneficios mas recientesMayor a menor descuentoBuscarTodos los BeneficiosShopping y servicios20% de descuentoActive Vortex OutletTodosTodos los días20% de descuentoBienestar20% de descuentoAlma SaludTodos los díasLos Llanes 86, torre B, Oficina 817 - Las CondesTodos los días20% de descuentoGourmet40% de descuentoCarnivo SteakhouseTodos los martesLos Pablos N°02291, TemucoTodos los martes40% de descuentoGourmet40% de descuentoCasa MoreraTodos los viernesAlonso de Córdova 4017, Vitacura, Región MetropolitanaTodos los viernes40% de descuentoGourmet40% de descuentoDivino Pecado40% de descuentoAv. San Martín N°180, Esquina 3 Norte, Viña del MarTodos los martes40% de descuentoGourmet10% de descuentoDulces AltiroTodos los díase-commerce y presencial.Todos los días10% de descuentoShopping y servicios20% dscto adicionalEcodisfrazTodos los díase-commerceTodos los días20% dscto adicionalGourmet40% de descuentoHotel Costa RealTodos los martesFrancisco de Aguirre 170, La SerenaTodos los martes40% de descuentoBienestarHasta 30% de descuentoInfinity SoulTodos los díasCostanera Sur 2710, Parque Titanium, Las Condes.Todos los díasHasta 30% de descuentoGourmet40% de descuentoLa ChalotaTodos los martesKlenner 348, Puerto VarasTodos los martes40% de descuentoGourmet40% de descuentoLa Cocina de JavierTodos los miércolesAv. Vitacura #7482, Vitacura, Región Metropolitana.Todos los miércoles40% de descuentoGourmet30% de descuentoLa MaestranzaTodos los domingosAvenida Vitacura N°5468, Vitacura, Región Metropolitana.   Av. Pdte. Kennedy 9001, Mall Alto Las Condes, Las Condes, Región Metropolitana.Todos los domingos30% de descuentoOrdenar por:Beneficios mas recientesMayor a menor descuentoBuscarOrdenarOrdenar por:Beneficios mas recientesMayor a menor descuentoBuscarBuscarCargar más",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "¿Qué Beneficios buscas hoy?Ordenar por:Beneficios mas recientesMayor a menor descuentoBuscarTodos los BeneficiosShopping y servicios20% de descuentoActive Vortex OutletTodosTodos los días20% de descuentoBienestar20% de descuentoAlma SaludTodos los díasLos Llanes 86, torre B, Oficina 817 - Las CondesTodos los días20% de descuentoGourmet40% de descuentoCarnivo SteakhouseTodos los martesLos Pablos N°02291, TemucoTodos los martes40% de descuentoGourmet40% de descuentoCasa MoreraTodos los viernesAlonso de Córdova 4017, Vitacura, Región MetropolitanaTodos los viernes40% de descuentoGourmet40% de descuentoDivino Pecado40% de descuentoAv. San Martín N°180, Esquina 3 Norte, Viña del MarTodos los martes40% de descuentoGourmet10% de descuentoDulces AltiroTodos los díase-commerce y presencial.Todos los días10% de descuentoShopping y servicios20% dscto adicionalEcodisfrazTodos los díase-commerceTodos los días20% dscto adicionalGourmet40% de descuentoHotel Costa RealTodos los martesFrancisco de Aguirre 170, La SerenaTodos los martes40% de descuentoBienestarHasta 30% de descuentoInfinity SoulTodos los díasCostanera Sur 2710, Parque Titanium, Las Condes.Todos los díasHasta 30% de descuentoGourmet40% de descuentoLa ChalotaTodos los martesKlenner 348, Puerto VarasTodos los martes40% de descuentoGourmet40% de descuentoLa Cocina de JavierTodos los miércolesAv. Vitacura #7482, Vitacura, Región Metropolitana.Todos los miércoles40% de descuentoGourmet30% de descuentoLa MaestranzaTodos los domingosAvenida Vitacura N°5468, Vitacura, Región Metropolitana.   Av. Pdte. Kennedy 9001, Mall Alto Las Condes, Las Condes, Región Metropolitana.Todos los domingos30% de descuentoOrdenar por:Beneficios mas recientesMayor a menor descuentoBuscarOrdenarOrdenar por:Beneficios mas recientesMayor a menor descuentoBuscarBuscarCargar más",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "¿Qué Beneficios buscas hoy?",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Todos los Beneficios",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "20% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "20% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "40% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "40% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "40% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "10% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "20% dscto adicional",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "40% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "Hasta 30% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "40% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    },
+    {
+      "comerciante_o_beneficio": "40% de descuento",
+      "descuento": "",
+      "terminos_hint": "",
+      "url_de_origen": "https://personas.bancosecurity.cl/beneficios"
+    }
+  ],
+  "ts": "2025-10-16T00:06:57.249479+00:00"
+}

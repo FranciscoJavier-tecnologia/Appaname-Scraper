@@ -1,0 +1,16 @@
+{
+  "emisor": "copec_voltex",
+  "categoria": "Minorista y Comercio",
+  "requiere_js": false,
+  "urls_origen": [
+    "https://www.copec.cl/voltex"
+  ],
+  "items": [],
+  "ts": "2025-10-16T00:09:40.078126+00:00",
+  "errores": [
+    {
+      "url": "https://www.copec.cl/voltex",
+      "error": "404 Client Error: Not Found for url: https://www.copec.cl/voltex"
+    }
+  ]
+}
